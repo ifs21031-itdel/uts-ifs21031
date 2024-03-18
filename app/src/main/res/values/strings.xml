@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+
+    <!-- Parameter yang menjadi data dari dinosarurus -->
+    <string name="info_dino_icon">Ikon Hewan</string>
+    <string name="info_dino_name">Nama Hewan</string>
+    <string name="info_dino_family">Famili Hewan</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_periode_hidup">Periode Hidup</string>
+    <string name="info_dino_characteristic">Karakteristik</string>
+    <string name="info_dino_habitat">Habitat</string>
+    <string name="info_dino_habit">Perilaku</string>
+    <string name="info_dino_class">Klasifikasi</string>
+
+    <!--  Daftar Family Dinosaurus  -->
+    <string-array name="dino_family">
+        <item>Theropoda</item>
+        <item>Sauropoda</item>
+        <item>Ceratopsia</item>
+        <item>Hadrosauridae</item>
+        <item>Allosauridae</item>
+        <item>Abelisauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Dromaeosauridae</item>
+    </string-array>
+
+    <!--  Daftar Icon Family Dinosaurus  -->
+    <string-array name="dino_family_icon">
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_avocado</item>
+    </string-array>
+
+    <!--  Theropoda    -->
+    <string-array name="dino_family_theropoda_name">
+        <item>Tyrannosaurus Rex</item>
+        <item>Velociraptor</item>
+        <item>Dilophosaurus</item>
+        <item>Spinosaurus</item>
+        <item>Albertosaurus</item>
+        <item>Dilophosaurus</item>
+        <item>Abelisaurus</item>
+        <item>Tyrannosauridae</item>
+    </string-array>
+
+
+    <!-- End -->
+
+    <!--  Sauro    -->
+    <string-array name="dino_family_sauropoda_name">
+        <item>Brontosaurus</item>
+        <item>Stegosaurus</item>
+    </string-array>
+    <!-- End -->
+
+    <!--  Ceratopsia    -->
+    <string-array name="dino_family_ceratopsia_name">
+        <item>Triceratops</item>
+    </string-array>
+    <!-- End -->
+
+    <!--  Hadrosauridae    -->
+    <string-array name="dino_family_hadrosauridae_name">
+        <item>Corythosaurus</item>
+    </string-array>
+    <!-- End -->
+
+    <!--  Allosauridae    -->
+    <string-array name="dino_family_allosauridae_name">
+        <item>Brachiosaurus</item>
+    </string-array>
+    <!-- End -->
+
+    <!--  Abelisauridae    -->
+    <string-array name="dino_family_abelisauridae_name">
+        <item>Abelisaurus</item>
+    </string-array>
+    <!-- End -->
+
+    <!--  Ceratopsidae    -->
+    <string-array name="dino_family_ceratopsidae_name">
+        <item>Triceratops</item>
+    </string-array>
+    <!-- End -->
+
+    <!--  Dromaeosauridae    -->
+    <string-array name="dino_family_dromaeosauridae_name">
+        <item>Velociraptor</item>
+    </string-array>
+    <!-- End -->
+</resources>
