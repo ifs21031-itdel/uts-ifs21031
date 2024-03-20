@@ -56,6 +56,41 @@
         <item>Brontosaurus</item>
         <item>Stegosaurus</item>
     </string-array>
+
+    <string-array name="dino_family_sauropoda_desc">
+        <item>Brontosaurus adalah dinosaurus herbivora yang besar dan memiliki leher panjang. Mereka dikenal karena ukuran tubuhnya yang besar dan makanan utamanya adalah tumbuhan.</item>
+        <item>Stegosaurus adalah dinosaurus herbivora yang dikenal dengan perisai tulang yang menonjol di punggungnya. Mereka memiliki otak kecil dan diperkirakan menggunakan perisai tulangnya untuk pertahanan dan regulasi suhu tubuh.</item>
+    </string-array>
+
+    <string-array name="dino_family_sauropoda_family">
+        <item>Sauropoda</item>
+        <item>Sauropoda</item>
+    </string-array>
+
+    <string-array name="dino_family_sauropoda_periode_hidup">
+        <item>Brontosaurus hidup pada periode Jura Akhir, sekitar 155-150 juta tahun yang lalu.</item>
+        <item>Stegosaurus hidup pada periode Jura Akhir, sekitar 155-150 juta tahun yang lalu.</item>
+    </string-array>
+
+    <string-array name="dino_family_sauropoda_characteristic">
+        <item>Brontosaurus memiliki tubuh yang besar dengan leher panjang dan ekor yang panjang pula. Kaki-kakinya yang kuat membantunya bergerak di daratan.</item>
+        <item>Stegosaurus memiliki tubuh besar dengan perisai tulang dan duri di bagian punggungnya. Mereka juga memiliki kaki yang pendek dan ekor dengan ujung yang berujung lancip.</item>
+    </string-array>
+
+    <string-array name="dino_family_sauropoda_periode_habitat">
+        <item>Brontosaurus hidup di daerah dataran rendah dan rawa-rawa yang berawa-rawa di wilayah yang sekarang menjadi Amerika Utara.</item>
+        <item>Stegosaurus ditemukan di wilayah yang sekarang menjadi Amerika Utara, biasanya hidup di dataran rendah dan hutan-hutan.</item>
+    </string-array>
+
+    <string-array name="dino_family_sauropoda_habit">
+        <item>Brontosaurus diyakini hidup secara berkelompok dan mungkin bergerak secara lambat dalam mencari makanan.</item>
+        <item>Perilaku Stegosaurus masih menjadi misteri, tetapi diperkirakan mereka adalah hewan herbivora yang mungkin hidup secara berkelompok dan menggunakan perisai tulangnya untuk perlindungan dari predator.</item>
+    </string-array>
+
+    <string-array name="dino_family_sauropoda_class">
+        <item>Kerajaan: Animalia, Filum: Chordata, Kelas: Reptilia, Ordo: Saurischia, Famili: Sauropoda</item>
+        <item>Kerajaan: Animalia, Filum: Chordata, Kelas: Reptilia, Ordo: Ornithischia, Famili: Stegosauridae</item>
+    </string-array>
     <!-- End -->
 
     <!--  Ceratopsia    -->
